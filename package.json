@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "phaser": "^3.87.0",
+    "process": "^0.11.10"
+  },
+  "name": "cardmemory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}
